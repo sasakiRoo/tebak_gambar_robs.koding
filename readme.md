@@ -2,6 +2,8 @@
 
 Proyek dasar web programming ini bertujuan untuk melatih para pemula untuk memahami penggunaan dari HTML, CSS, dan Javascript.
 
+link: https://imaginative-paletas-2fb8ff.netlify.app/
+
 ## Tebak gambar
 
 ![alt text](https://github.com/sasakiRoo/tebak_gambar_robs.koding/blob/main/assets/tbk%20gambar%20screen.png?raw=true)
