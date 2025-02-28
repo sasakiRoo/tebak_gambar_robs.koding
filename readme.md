@@ -4,7 +4,7 @@ Proyek dasar web programming ini bertujuan untuk melatih para pemula untuk memah
 
 ## Tebak gambar
 
-![alt text](raw=true)
+![alt text](https://github.com/sasakiRoo/tebak_gambar_robs.koding/blob/main/assets/tbk%20gambar%20screen.png?raw=true)
 
 sesuai namanya, user akan diminta memasukkan input yang sesuai dengan gammbar yang diberikan.
 
